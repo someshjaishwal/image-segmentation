@@ -1,2 +1,2 @@
-# image-segmentation
-semantic segmentaion via some basic methods and WNet
+# semantic-segmentation
+See presentation.pptx for quick details
